@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Repositorio del proyecto del *Robot Sumo*.
+Repositorio del proyecto *Robot Sumo* de IEEE-ITBA.
 
 > `TODO`
 
